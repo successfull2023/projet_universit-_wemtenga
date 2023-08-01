@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{8383FF03-361F-42CC-874F-DEBA68F4A194}" Label="" LastModificationDate="1690363964" Name="Diagramme de séquence UML_3" Objects="19" Symbols="25" Target="Analyse" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{8383FF03-361F-42CC-874F-DEBA68F4A194}" Label="" LastModificationDate="1690903703" Name="Diagramme de séquence UML_3" Objects="49" Symbols="65" Target="Analyse" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -1828,11 +1828,11 @@ DISPNAME 0 Arial,8,U</a:FontList>
 </o:Message>
 <o:Message Id="o29">
 <a:ObjectID>0F9B40F3-EA33-4AE3-B2EB-0ACE7A307E60</a:ObjectID>
-<a:Name>2. entrez mot de passe</a:Name>
-<a:Code>2__entrez_mot_de_passe</a:Code>
+<a:Name>2. entrez id et mot de passe</a:Name>
+<a:Code>2__entrez_id_et_mot_de_passe</a:Code>
 <a:CreationDate>1690292474</a:CreationDate>
 <a:Creator>HP</a:Creator>
-<a:ModificationDate>1690363514</a:ModificationDate>
+<a:ModificationDate>1690903703</a:ModificationDate>
 <a:Modifier>HP</a:Modifier>
 <c:Object1>
 <o:UMLObject Ref="o35"/>
@@ -1905,11 +1905,11 @@ DISPNAME 0 Arial,8,U</a:FontList>
 </o:Message>
 <o:Message Id="o15">
 <a:ObjectID>A4DAF778-6A3F-4C1B-89A3-171B1DFDC4D7</a:ObjectID>
-<a:Name>2.1.3. echec</a:Name>
-<a:Code>2_1_3__echec</a:Code>
+<a:Name>2.1.3. pas de connection</a:Name>
+<a:Code>2_1_3__pas_de_connection</a:Code>
 <a:CreationDate>1690360486</a:CreationDate>
 <a:Creator>HP</a:Creator>
-<a:ModificationDate>1690363815</a:ModificationDate>
+<a:ModificationDate>1690903681</a:ModificationDate>
 <a:Modifier>HP</a:Modifier>
 <a:ControlFlow>R</a:ControlFlow>
 <c:Object1>
@@ -1958,7 +1958,7 @@ DISPNAME 0 Arial,8,U</a:FontList>
 <a:Code>Analysis</a:Code>
 <a:CreationDate>1690286977</a:CreationDate>
 <a:Creator>HP</a:Creator>
-<a:ModificationDate>1690286977</a:ModificationDate>
+<a:ModificationDate>1690903646</a:ModificationDate>
 <a:Modifier>HP</a:Modifier>
 <a:TargetModelURL>file:///%_OBJLANG%/analysis.xol</a:TargetModelURL>
 <a:TargetModelID>87317290-AF03-469F-BC1E-99593F18A4AB</a:TargetModelID>
